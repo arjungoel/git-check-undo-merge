@@ -1,2 +1,2 @@
 # git-check-undo-merge
-development
+feature1
