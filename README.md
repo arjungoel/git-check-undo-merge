@@ -1,0 +1,1 @@
+# git-check-undo-merge
